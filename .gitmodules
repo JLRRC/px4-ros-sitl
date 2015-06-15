@@ -1,0 +1,3 @@
+[submodule "src/Firmware"]
+	path = src/Firmware
+	url = git@github.com:PX4/Firmware
