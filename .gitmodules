@@ -1,3 +1,15 @@
 [submodule "src/Firmware"]
 	path = src/Firmware
 	url = git@github.com:PX4/Firmware
+[submodule "src/rotors_simulator"]
+	path = src/rotors_simulator
+	url = https://github.com/PX4/rotors_simulator.git
+[submodule "src/mav_comm"]
+	path = src/mav_comm
+	url = https://github.com/PX4/mav_comm.git
+[submodule "src/glog_catkin"]
+	path = src/glog_catkin
+	url = https://github.com/ethz-asl/glog_catkin.git
+[submodule "src/catkin_simple"]
+	path = src/catkin_simple
+	url = https://github.com/catkin/catkin_simple.git
